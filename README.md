@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mertfidan715
-- 👀 I’m interested in app development and coding with Java,  as well as sports and music
+- 👀 I’m interested in development and solutions using Java, C/C++, C#, JavaScript/TypeScript, hardware implementations using Verilog/SystemVerilog and MIPS Architecture.
 - 🌱 I’m currently studying Computer Science in Bilkent University.
 - 📫 You can reach me via mert.fidan@ug.bilkent.tr or mert.fidan715@gmail.com
 
