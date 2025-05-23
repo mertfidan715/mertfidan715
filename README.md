@@ -1,5 +1,5 @@
-## 👋 Hi, I’m @mertfidan715
-* 🌱 I’m currently studying Computer Science at Bilkent University
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Mert Fidan </b></h1>
+<h2 align="center"><b>🌱 I’m currently studying Computer Science at Bilkent University</h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mertfidan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mert.fidan715@gmail.com) 
