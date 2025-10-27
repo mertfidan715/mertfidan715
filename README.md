@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>Hi , I'm Mert Fidan </b></h1>
 <h2 align="center"><b>🌱 I’m currently studying Applied AI at University of Warwick</h2>
 <h3 align="center">
-<a href="https://drive.google.com/file/d/1E5eBcdBmF5nBfVxmIMD3c5NUTd7CT6GE/export?format=pdf" target="_blank">Resume</a> | <a href="https://scorpia2004.github.io/](https://mertfidan.vercel.app/" target="_blank">Portfolio</a>
+<a href="https://drive.google.com/file/d/1E5eBcdBmF5nBfVxmIMD3c5NUTd7CT6GE/export?format=pdf" target="_blank">Resume</a> | <a href="https://mertfidan.vercel.app/" target="_blank">Portfolio</a>
 </h3>
 
 ## 🌐 Socials:
